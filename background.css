@@ -7,7 +7,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
-  
+
   /* Images used */
 .img1 { background-image: url("background.png"); }
 .img2 { background-image: url("paralax-img2.jpg"); }
@@ -101,6 +101,22 @@ body, html {
     margin-right: -50%;
     transform: translate(-50%, -50%) }
 
+.about-box {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    font-size: 5EM;
+    border: 10px solid #f1f1f1;
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
 .text-box1 {
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
@@ -165,6 +181,22 @@ body, html {
     margin-right: -50%;
     transform: translate(-50%, -50%) }
 
+.text-box5 {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    font-size: 2.5EM;
+    border: 5px solid #f1f1f1;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
 
 .cd-section {
     background-size: cover;
@@ -194,4 +226,7 @@ body, html {
     background-image: url("fourth-image.jpg");
     }
     
+    .cd-section:nth-child(5) {
+    background-image: url("fifth-photo.jpg");
+    }
     /* all other background images */
