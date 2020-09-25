@@ -41,13 +41,13 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 5EM;
     border: 10px solid #f1f1f1;
-    width: 300px;
+    width: 18%;
     padding: 20px;
     text-align: center;
     position: relative;
-    top: 225px;
+    top: 200px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) }
@@ -58,9 +58,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 5EM;
     border: 10px solid #f1f1f1;
-    width: 350px;
+    width: 18%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -74,9 +74,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 5EM;
     border: 10px solid #f1f1f1;
-    width: 400px;
+    width: 20%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -90,9 +90,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 5EM;
     border: 10px solid #f1f1f1;
-    width: 400px;
+    width: 20%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -106,9 +106,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 2.5EM;
     border: 5px solid #f1f1f1;
-    width: 1500px;
+    width: 80%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -122,9 +122,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 2.5EM;
     border: 5px solid #f1f1f1;
-    width: 1500px;
+    width: 80%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -138,9 +138,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 2.5EM;
     border: 5px solid #f1f1f1;
-    width: 1500px;
+    width: 80%;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -154,9 +154,9 @@ body, html {
     background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
     color: white;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 2.5EM;
     border: 5px solid #f1f1f1;
-    width: 1500px;
+    width: 80%;
     padding: 20px;
     text-align: center;
     position: relative;
