@@ -215,6 +215,22 @@ body, html {
     margin-right: -50%;
     transform: translate(-50%, -50%) }
 
+.text-box6 {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0); /* Black w/opacity/see-through */
+    color: black;
+    font-weight: bold;
+    font-size: 2.5EM;
+    border: 5px solid #f1f1f100;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 400px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
 
 .cd-section {
     background-size: cover;
